@@ -1,4 +1,4 @@
-/* Reset */
+/* Reset by anjlli */
 * {
   margin: 0;
   padding: 0;
